@@ -12,12 +12,12 @@ Dapat digunakan untuk belajar crud laravel 10.
 
 ## Fitur
 
--   [x] \Create (Tambah)
--   [ ] Read (Lihat)
--   [ ] Update (Ubah)
--   [ ] Delete (Hapus)
--   [ ] Detail
--   [ ] Pagination
+-   [x] Create (Tambah)
+-   [x] Read (Lihat)
+-   [x] Update (Ubah)
+-   [x] Delete (Hapus)
+-   [x] Detail
+-   [x] Pagination
 
 ## Tampilan
 
