@@ -12,7 +12,7 @@ Dapat digunakan untuk belajar crud laravel 10.
 
 ## Fitur
 
--   [ ] Create (Tambah)
+-   [x] \Create (Tambah)
 -   [ ] Read (Lihat)
 -   [ ] Update (Ubah)
 -   [ ] Delete (Hapus)
