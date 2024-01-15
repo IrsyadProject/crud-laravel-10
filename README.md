@@ -2,14 +2,22 @@
 
 Dapat digunakan untuk belajar crud laravel 10.
 
+## ALAT DAN BAHAN
+
+1. [Laravel 10](https://github.com/laravel/framework/)
+1. [Bootstrap 5](https://github.com/twbs/bootstrap)
+1. [Laravel/lang](https://github.com/Laravel-Lang/lang)
+1. [Toastr](https://codeseven.github.io/toastr/)
+1. [Vite](https://github.com/vitejs/vite)
+
 ## Fitur
 
--   [x] Create (Tambah)
--   [x] Read (Lihat)
--   [x] Update (Ubah)
--   [x] Delete (Hapus)
--   [x] Detail
--   [x] Pagination
+-   [ ] Create (Tambah)
+-   [ ] Read (Lihat)
+-   [ ] Update (Ubah)
+-   [ ] Delete (Hapus)
+-   [ ] Detail
+-   [ ] Pagination
 
 ## Tampilan
 
@@ -18,11 +26,12 @@ Dapat digunakan untuk belajar crud laravel 10.
 ![Tampilan 3](https://github.com/IrsyadProject/crud-laravel-10/blob/main/public/ssweb2.jpeg?raw=true)
 ![Tampilan 4](https://github.com/IrsyadProject/crud-laravel-10/blob/main/public/ssweb3.jpeg?raw=true)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+## Cara Menjalankannya
+
+```
+ php artisan serve
+ npm run dev
+```
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
