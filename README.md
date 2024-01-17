@@ -4,11 +4,11 @@ Dapat digunakan untuk belajar crud laravel 10.
 
 ## ALAT DAN BAHAN
 
-1. [Laravel 10](https://github.com/laravel/framework/)
-1. [Bootstrap 5](https://github.com/twbs/bootstrap)
-1. [Laravel/lang](https://github.com/Laravel-Lang/lang)
-1. [Toastr](https://codeseven.github.io/toastr/)
-1. [Vite](https://github.com/vitejs/vite)
+1. Laravel 10.x.x <a href="https://laravel.com/"><img src="https://img.shields.io/static/v1?label=Laravel&message=10.x.x&color=darkred&logo=laravel&logoColor=white"></a>
+1. Bootstrap 5 <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-5.3.x-indigo?logo=bootstrap&logoColor=white" alt="Bootstrap - 5.3.x"></a>
+1. Laravel lang <a href="https://github.com/Laravel-Lang/lang"><img src="https://img.shields.io/badge/Laravel/lang-14.2.4-red?logo=laravel&logoColor=white" alt="Laravel/lang - 14.2.4"></a>
+1. Toastr 2.1.1 <a href="https://codeseven.github.io/toastr/"><img src="https://img.shields.io/badge/Toastr-2.1.1-darkgreen?logo=javascript&logoColor=white"></a>
+1. Vite 5 <a href="https://github.com/vitejs/vite"><img src="https://img.shields.io/static/v1?label=Vite&message=5.0.11&color=%23646CFF&logo=vite&logoColor=white" alt="Vite - 5.0.11"></a>
 
 ## Fitur
 
